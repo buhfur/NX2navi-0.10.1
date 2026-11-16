@@ -2,15 +2,6 @@
 
 # NX2navi
 
-> [!IMPORTANT]
-> **NX2navi is no longer the current project. NX2navi and Triforce have merged and go on as Triforce.**
-> Get Triforce from https://triforceproject.com. Its source is at https://git.triforceproject.com/triforce/source.
->
-> This repository and its releases are kept as they are. Release 0.12.0 turns an installed NX2navi launcher into a
-> window that starts Triforce Setup; **Play NX2navi** there still starts the game you have built, and your game, saves
-> and settings stay where they are. Triforce's Convert saves page brings your NX2navi saves over.
-
-**Join the official Triforce update discord server: https://discord.com/invite/uf6gSrsPpq** 
 
 **NX2navi** is a static recompilation of *The Legend of Zelda: Ocarina of Time* for Nintendo Switch 2 (game
 version 1.1.1) into a native x86-64 application for Windows, with a Vulkan renderer
