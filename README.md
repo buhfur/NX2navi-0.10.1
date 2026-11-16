@@ -15,8 +15,7 @@ version 1.1.1) into a native x86-64 application for Windows, with a Vulkan rende
 
 ## Status
 
-New work goes into Triforce, not here (see the top of this page). What follows describes NX2navi as it was at the
-handover.
+
 
 Playable. Kokiri Forest, Kakariko Village, Death Mountain Trail and its crater, the Temple of
 Time and the Great Fairy fountains play at 60 fps and above on current GPUs, from the title screen and from saves.
